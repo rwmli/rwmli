@@ -46,10 +46,6 @@
 </p>
 
 <p align="center">
-  <img src="https://file.garden/Zy7nsVKnFHAuCMhW/dividers/monochromatic/mono28" width="100">
-</p>
-
-<p align="center">
   <span style="color:#ffffff; font-size:16px;">
   <i>
   ✦ games ✦ <br><br>
@@ -58,9 +54,12 @@
   Red Dead Redemption – RDR 2 – Silent Hill – Doki Doki Literature Club –  
   Detroit Become Human – Life Is Strange – Touhou  
   (and other games I might have forgot…)
+  </i>
+  </span>
+   <p align="center">
+  <img src="https://file.garden/Zy7nsVKnFHAuCMhW/dividers/monochromatic/mono28" width="100">
+</p>
+</p>
  <p align="center">
    <img src="https://i.pinimg.com/originals/2c/a2/7a/2ca27a39fe9246a8d6dc81493576de03.gif" width="300"> 
  </p>
-  </i>
-  </span>
-</p>
