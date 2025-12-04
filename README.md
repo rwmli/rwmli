@@ -59,7 +59,8 @@
   Detroit Become Human – Life Is Strange – Touhou  
   (and other games I might have forgot…)
  <p align="center">
-   <img src="https://i.pinimg.com/originals/2c/a2/7a/2ca27a39fe9246a8d6dc81493576de03.gif" width="300">
+   <img src="https://i.pinimg.com/originals/2c/a2/7a/2ca27a39fe9246a8d6dc81493576de03.gif" width="300"> 
+ </p>
   </i>
   </span>
 </p>
