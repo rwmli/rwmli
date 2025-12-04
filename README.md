@@ -7,7 +7,7 @@
 <p align="center">
  <img src="https://i.pinimg.com/originals/b8/1e/c7/b81ec7411a9ac4988faaa500ca8f53df.gif" width="300">
 <p align="center">
-  <span style="color:#c44545; font-size:28px;"><b>mimolett's github page !</b></span>
+  <span style="color:#c44545; font-size:28px;"><b>t a m e n a o ' s github page !</b></span>
 </p>
 
 <p align="center">
